@@ -19,7 +19,7 @@ spring:
         # encrypt.enabled should moved to bootstrap.yml
         # encrypt.enabled: false
         git:
-          uri: https://github.com/mnonm/config-repo/
+          uri: https://github.com/mnonm/config-repo
           searchPaths: licensingservice,organizationservice
           username: native-cloud-apps
           password: 0ffended
